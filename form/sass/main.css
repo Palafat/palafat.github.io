@@ -4,7 +4,6 @@
     text-transform: uppercase;
     background-color: #01b3b3;
     color: #fafafa;
-    width: 200px;
 }
 
 .form {
@@ -14,9 +13,6 @@
 }
 
 .btn-large {
-    width: 520px;
-    margin-left: 10px;
-    font-weight: 900;
     font-size: 19px;
     background-color: #01b3b3;
 }
