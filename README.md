@@ -1,2 +1,2 @@
-# palafat.github.io
+# Artur Yermalinski
 Тренировочный сайт
